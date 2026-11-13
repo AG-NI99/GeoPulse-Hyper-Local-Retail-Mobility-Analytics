@@ -78,3 +78,14 @@ PowerPoint Presentation
 Model Evaluation Results 
 
 Final Project Demonstration 
+
+### Today's Work – 13 November 2026
+
+Today, I created a dedicated GitHub repository for my GeoPulse – Hyper-Local Retail Mobility Analytics project. I added the initial README.md file with the project overview, objectives, technologies and expected deliverables. I also created an organized folder structure for raw and processed datasets, Python notebooks, source code, charts, reports, dashboards and documentation. Additionally, I added a requirements.txt file containing the initial Python data science libraries needed for the project.
+
+ **What I Learned:**
+- How to create and manage a GitHub repository.
+- How to organize a data analytics project professionally.
+- The purpose of raw and processed datasets.
+- How Git tracks project changes through commits.
+- The importance of requirements.txt for managing Python dependencies.
