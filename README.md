@@ -94,8 +94,6 @@ Today, I created a dedicated GitHub repository for my GeoPulse – Hyper-Local R
  ### 14th November 2026
 Completed work:
 - Completed the initial GeoPulse GitHub repository setup.
-- Created and organised the project folders.
-- Prepared the README.md file.
 - Added the requirements.txt file for project dependencies.
 - Finalised Kolkata as the geographical study area.
 - Selected Park Street and nearby areas: Camac Street, Middleton Row, and Free School Street.
