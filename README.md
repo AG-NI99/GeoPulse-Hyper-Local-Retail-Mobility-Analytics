@@ -98,3 +98,14 @@ Completed work:
 - Finalised Kolkata as the geographical study area.
 - Selected Park Street and nearby areas: Camac Street, Middleton Row, and Free School Street.
 - Defined the dataset structure for collecting business-location information
+
+  
+### 15th november 2026
+  Worked on the GeoPulse Kolkata dataset in Google Colab. Loaded the collected GeoJSON file containing 347 geographical records and converted the data into a Pandas DataFrame. Inspected business details, coordinates and address information. Identified 7 potential duplicate records across 3 groups (Astoria Hotel, Cha Bar and Lenskart) and added duplicate-review flags without deleting any original records. Also identified missing street information in 269 records for further investigation. Learned about GeoJSON processing, data cleaning, duplicate detection and geographical data validation.
+  
+# What I learned
+- How to load and inspect GeoJSON files using Python.
+- How to convert geographical data into a Pandas DataFrame.
+- How to extract latitude and longitude.
+- How to identify potential duplicate business listings.
+- Why missing address information and geographical search boundaries matter in spatial data analysis.
