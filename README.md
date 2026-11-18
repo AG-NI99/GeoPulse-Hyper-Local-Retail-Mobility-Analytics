@@ -109,3 +109,12 @@ Completed work:
 - How to extract latitude and longitude.
 - How to identify potential duplicate business listings.
 - Why missing address information and geographical search boundaries matter in spatial data analysis.
+
+### 16th november 2026
+  Worked on improving the quality of the GeoPulse Kolkata dataset. Added duplicate review flags using `duplicate_status` and `duplicate_group` columns while preserving all 347 original records. Identified 7 records across 3 potential duplicate groups for further investigation. Also reviewed the street-name standardisation report and identified entries requiring manual verification.
+
+ # What I learned:
+- Duplicate detection and data validation.
+- Using Pandas to organise geographical data.
+- Street-name standardisation.
+- Identifying records that require manual verification.
