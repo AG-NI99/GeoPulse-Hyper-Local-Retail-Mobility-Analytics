@@ -118,3 +118,6 @@ Completed work:
 - Using Pandas to organise geographical data.
 - Street-name standardisation.
 - Identifying records that require manual verification.
+
+### 18th november 2026
+  Continued high-priority spatial analysis in GeoPulse. Checked distances between selected locations and nearby roads and compared the original street information with the nearest road results. Identified Acharya Jagadish Chandra Bose Road, Collin Street and Mirza Ghalib Street as nearby roads during the inspection. Completed the spatial review and exported the results as `GeoPulse_High_Priority_Spatial_Review.csv`. Started inspecting original OpenStreetMap records for verification.
