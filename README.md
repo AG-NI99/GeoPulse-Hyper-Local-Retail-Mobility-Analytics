@@ -126,10 +126,19 @@ Completed work:
 Continued GeoPulse spatial validation . Inspected original OpenStreetMap records for Red Arrow Residency, Taj Ladge and Desires. Verified their OSM IDs, addresses, coordinates, tags and record history. Compared the original source information with the spatial analysis results and updated the high-priority review report. All three records were verified, while unresolved discrepancies were retained for further investigation without applying any corrections.
 
 ### 20th november 2026
-Prepared a final spatial quality summary for three high-priority locations and created an Excel assessment report with Detailed Review and Quality Summary sheets. Performed a dataset health check on the original, working, business and roads datasets. Also analysed business category distributions using shop, amenity and tourism tags, identifying the most common categories and missing values. This helped me better understand the structure, completeness and quality of the collected OpenStreetMap data.
+Continued working on GeoPulse by completing Steps 31–35. Prepared a spatial quality summary and an Excel assessment report for the selected high-priority locations. Performed a dataset health check on the original, working, business and roads datasets. Analysed the Shop, Amenity and Tourism categories and identified missing category values. Created a combined `main_category` column by applying a priority-based classification method. Successfully classified all 347 records into 57 categories with zero unclassified records and reviewed the combined category distribution.
 # What I learned
 - How to check dataset dimensions and data health.
 - How to analyse business categories using Pandas.
 - How to identify missing category information.
 - How to understand OpenStreetMap tags such as shop, amenity and tourism.
 - How to summarise geographical data for further analysis.
+
+### 21st november 2026
+Continued the GeoPulse project by completing next part. Analysed the combined business categories and created a horizontal bar chart showing the top 15 categories. The most frequent categories included restaurants (70), hotels (55) and fast food (42). Also created a donut chart showing the business category composition of Park Street, Kolkata, displaying the top five categories separately and grouping the remaining categories as Other categories. Added percentage labels and reviewed the completed visualisations.
+# What I learned
+1. How to identify the top business categories using Pandas.
+2. How to create horizontal bar charts for category comparison.
+3. How to create donut charts for category composition.
+4. How to calculate and display percentage distributions.
+5. How to communicate geographical business patterns through visualisation.
