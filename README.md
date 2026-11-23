@@ -142,3 +142,12 @@ Continued the GeoPulse project by completing next part. Analysed the combined bu
 3. How to create donut charts for category composition.
 4. How to calculate and display percentage distributions.
 5. How to communicate geographical business patterns through visualisation.
+
+### 22nd november 2026
+Continued working on GeoPulse by Created a business location and road network map using 347 OpenStreetMap location records and 325 road features. Saved the output as `GeoPulse_Business_Location_Road_Map.png`. Then created a colourful category-based map showing the top 8 business categories separately and grouping the remaining categories as Other categories. Compared the geographical distribution of different business types and saved the visualisation as `GeoPulse_Colourful_Category_Map.png`.
+# What I learned
+1. How to overlay business locations on a road network.
+2. How to create geographical maps using Python.
+3. How to visualise different business categories using colours.
+4. How to identify geographical concentration and distribution patterns.
+5. How to communicate spatial analysis results through maps.
