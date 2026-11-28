@@ -151,3 +151,11 @@ Continued working on GeoPulse by Created a business location and road network ma
 3. How to visualise different business categories using colours.
 4. How to identify geographical concentration and distribution patterns.
 5. How to communicate spatial analysis results through maps.
+
+# 24th november 2026
+Work completed:
+- Created a Kernel Density Estimation (KDE) heatmap using 347 business-location records.
+- Analysed the geographical concentration of businesses.
+- Used colour intensity to identify areas with higher and lower estimated business density.
+- Generated and saved the heatmap.
+Output: GeoPulse_Business_Density_Heatmap.png
